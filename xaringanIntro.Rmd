@@ -182,6 +182,18 @@ Split columns by including content inside `.pull-left[]` and `.pull-right[]`
 ```
 ]
 
+---
+# Hosting with ghpages
+
+You can host your slides remotely on github!
+
+1. Initiate and clone a repository.  
+2. Build and compile your slides.  
+3. CRITICAL: name the deck `index.html`.  
+4. Commit and push to github.  
+5. On github, go to Settings -> Pages.  
+6. Change "Branch" from none to master. Click save.  
+7. Find your slides at: `user_name.github.io/repo_name`
 
 ---
 # Useful Resources
