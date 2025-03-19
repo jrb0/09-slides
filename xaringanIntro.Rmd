@@ -117,7 +117,7 @@ output:
 - Alignment:  
 
   - Vertical: `bottom`, `middle`, `top`  
-  = Horizontal: `left`, `center`, `right`  
+  - Horizontal: `left`, `center`, `right`  
 ]
 
 .pull-right[
@@ -200,5 +200,5 @@ You can host your slides remotely on github!
 
 - Yihui Xie is the guru of all things markdown (and the author of the `knitr` package). His book [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)  is a great intro. See Chapters 4, 7, 9 for info on slide presentations.
 
-- Irene Vrbik also has am excellent [example slide deck](https://irene.vrbik.ok.ubc.ca/slides/NHSRxaringan.html#1). See her [markdown code on github](https://github.com/vrbiki/learning-xaringan/blob/master/NHSRxaringan.Rmd) to mimic all the little fancy things.
+- Irene Vrbik also has an excellent [example slide deck](https://irene.vrbik.ok.ubc.ca/slides/NHSRxaringan.html#1). See her [markdown code on github](https://github.com/vrbiki/learning-xaringan/blob/master/NHSRxaringan.Rmd) to mimic all the little fancy things.
 
